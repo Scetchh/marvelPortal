@@ -1,0 +1,17 @@
+.banner {
+  display: flex;
+  background-color: black;
+  align-items: center;
+  padding: 0 30px;
+}
+.banner__text {
+  color: #fff;
+  margin-right: 420px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+.banner__img {
+  margin-right: 80px;
+}/*# sourceMappingURL=banner.css.map */
